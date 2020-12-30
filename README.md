@@ -1,8 +1,8 @@
-## Home Page Design and Landing Page Design
+# Home Page Design and Landing Page Design
 
-# Preview
+## Preview
 
-Home Page Design
+##Home Page Design
 
 <img width="1440" alt="Ekran Resmi 2020-12-29 15 21 57" src="https://user-images.githubusercontent.com/34038741/103345108-8a92d200-4aa1-11eb-9c75-55b46d11b00e.png">
 
@@ -17,7 +17,8 @@ If you want to take a detailed look at the project:
 * Dribble : https://dribbble.com/shots/14789203-Home-Page-Design
 
 
-Landing Page Design
+
+##Landing Page Design
 
 ![light-dark design](https://user-images.githubusercontent.com/34038741/103345465-874c1600-4aa2-11eb-90f9-d0fa0ace80ca.png)
 
